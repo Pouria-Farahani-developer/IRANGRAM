@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IRANGRAM/static/css/main.17895441.css",
+    "main.js": "/IRANGRAM/static/js/main.79a905f0.js",
+    "index.html": "/IRANGRAM/index.html",
+    "main.17895441.css.map": "/IRANGRAM/static/css/main.17895441.css.map",
+    "main.79a905f0.js.map": "/IRANGRAM/static/js/main.79a905f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17895441.css",
+    "static/js/main.79a905f0.js"
+  ]
+}
