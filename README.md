@@ -12,6 +12,8 @@
 
 ⚡ Be sure to turn on your VPN to view users' images
 
+⚠ by click on username jandoe on each post, you can go to profile 
+
 - 📱 Responsive Web Design
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/IRANGRAM/)
