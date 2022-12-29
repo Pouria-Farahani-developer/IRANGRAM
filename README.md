@@ -1,6 +1,6 @@
 # IRANGRAM
 
-⌚ **By scrolling Indicator you can see how much time you need to finish reading the articles on the site!**
+⌚ **Iran Gram social application (DEMO OF INSTAGRAM)**
 
 ![loginirangram](https://user-images.githubusercontent.com/109727844/210005309-8c6a3244-1e0b-44a5-9ada-d8e8a494cc2e.jpg)
 
