@@ -10,6 +10,8 @@
 
 ![darkmodeirangram](https://user-images.githubusercontent.com/109727844/210005867-90a3c3d9-7219-4906-aa64-c180c35de3db.jpg)
 
+- 📱 Responsive
+
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/IRANGRAM/)
 
 - 📤 You can download the project file In [master's Branch](https://github.com/Pouria-Farahani-developer/IRANGRAM/tree/master)
