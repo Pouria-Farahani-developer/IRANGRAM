@@ -12,7 +12,11 @@
 
 ⚡ Be sure to turn on your VPN to view users' images
 
-⚠ by click on username jandoe on each post, you can go to profile 
+⚠ You don't need to enter username and password, just click the login button
+
+⚠ I use your Local Storage for first Login because for second entry donot use enter user and password
+
+⚠ by click on username Jan Doe on each post, you can go to profile 
 
 - 📱 Responsive Web Design
 
