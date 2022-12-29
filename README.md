@@ -1,6 +1,6 @@
 # IRANGRAM
 
-⌚ **Iran Gram social application (DEMO OF INSTAGRAM)**
+🤡 **Iran Gram social application (DEMO OF INSTAGRAM)**
 
 ![loginirangram](https://user-images.githubusercontent.com/109727844/210005309-8c6a3244-1e0b-44a5-9ada-d8e8a494cc2e.jpg)
 
