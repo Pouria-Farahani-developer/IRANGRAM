@@ -18,9 +18,9 @@
 
 - 📆 Created - 2022-12-09
 
-- 🤖 Technologies Used - Html , css , js , React.js
+- 🤖 Technologies Used - Html , css , js , React.js 
 
-- 🚧 Hooks Used : useState , useEffect
+- 🚧 Hooks & Package Used : useState , useEffect , React-Router-Dom
 
 - 🕵🏻‍♀️ Role - Frontend
 
@@ -98,4 +98,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Scroll-Indicator-By-React" 
+"# IRANGRAM
