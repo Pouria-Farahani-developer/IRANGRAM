@@ -6,7 +6,7 @@
 
 ![irangram](https://user-images.githubusercontent.com/109727844/210005048-5e1a016a-6397-439d-a273-d209dfeff53d.jpg)
 
-![scroll (1)](https://user-images.githubusercontent.com/109727844/206660823-4f1455a7-6483-40d8-9285-e24bd7072018.jpg)
+![profileirangram](https://user-images.githubusercontent.com/109727844/210005493-7124a6c3-e7b2-4668-ba8e-f1e37560de0f.jpg)
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/IRANGRAM/)
 
