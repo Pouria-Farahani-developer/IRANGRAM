@@ -2,10 +2,9 @@
 
 🤡 **IRANGRAM social application (Demo OF Instagram)**
 
-
- <h3 align="center"> ☃ Help view the site </h3>
- 
- 
+<p>&nbsp;</p>
+<h3 align="center"> ☃ Help view the site </h3>
+<p>&nbsp;</p>
 
 https://user-images.githubusercontent.com/109727844/210151666-ad89db12-3a27-4991-971a-9d8cb6e58c05.mp4
  
