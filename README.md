@@ -2,10 +2,6 @@
 
 🤡 **IRANGRAM social application (Demo OF Instagram)**
 
-Help view the site:
-
-https://user-images.githubusercontent.com/109727844/210151513-ebc8a6e4-2d15-46fa-b7ca-1fd4bb98d0d6.mp4
-
 ![loginirangram](https://user-images.githubusercontent.com/109727844/210005309-8c6a3244-1e0b-44a5-9ada-d8e8a494cc2e.jpg)
 
 ![irangram](https://user-images.githubusercontent.com/109727844/210005048-5e1a016a-6397-439d-a273-d209dfeff53d.jpg)
